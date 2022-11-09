@@ -20,7 +20,11 @@ O presente estudo tem por obejtivo a criação de uma tela de cadastro de client
 
 1. Melhorar responsividade 
 2. Melhorar REGEX (está pouco intuitivo)
-    
+
+## 👨‍💻 Tecnologias utilizadas:
+* HTML5
+* CSS3
+* Javascript
 
 ## 🔗Link de acesso: **https://cadastro-cliente-vinicius-delmo.netlify.app/**
 #### 🔄Última Atualização: 13/09/2022
